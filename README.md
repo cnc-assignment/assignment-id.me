@@ -28,7 +28,7 @@ In the project directory, run the following commands:
 #### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:5000](http://localhost:5000) to view it in a we browser e.g. - Google Chrome
+Open [http://localhost:5000](http://localhost:5000) to view it in a web browser e.g. - Google Chrome
 
 ## How to run test cases and code coverage
 
