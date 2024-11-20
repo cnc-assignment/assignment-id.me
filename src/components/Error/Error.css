@@ -1,0 +1,8 @@
+.error-banner {
+  color: rgb(245, 12, 12);
+  font-weight: 700;
+  padding: 5px;
+  margin: 10px;
+  background-color: rgb(238, 184, 184);
+  border: 1px solid rgb(226, 113, 113);
+}

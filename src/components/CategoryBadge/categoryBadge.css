@@ -1,0 +1,41 @@
+.product-category {
+  border: 1px solid;
+  text-align: center;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.product-category.Apparel {
+  border-color: #13e49f;
+  color: #13e49f;
+}
+
+.product-category.Automotive {
+  border-color: #9a0202;
+  color: #9a0202;
+}
+
+.product-category.Food {
+  border-color: #13e49f;
+  color: #13e49f;
+}
+
+.product-category.Footwear {
+  border-color: #4b1d02;
+  color: #4b1d02;
+}
+
+.product-category.Entertainment {
+  border-color: #1b0253;
+  color: #1b0253;
+}
+
+.product-category.Travel {
+  border-color: #89026e;
+  color: #89026e;
+}
+
+.product-category.Technology {
+  border-color: #080808;
+  color: #080808;
+}
